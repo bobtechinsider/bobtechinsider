@@ -14,5 +14,5 @@ Facts about me
   * Cloud Computing
   * Developer productivity
   * Building high performance teams
-* 👨‍💻 I worked for Amazon Web Services(AWS), btw
+* 👨‍💻 I worked for Amazon Web Services(AWS), btw and now I'm self-employed
 * 📫 Reach me on [Twitter](https://twitter.com/bobtechinsider)
